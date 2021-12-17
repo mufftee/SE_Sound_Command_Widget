@@ -1,0 +1,22 @@
+{
+  "command": {
+    "type": "text",
+    "label": "Command"
+  },
+  "username": {
+    "type": "text",
+    "label": "Username"
+  },
+  "sound": {
+    "type": "sound-input",
+    "label": "Audio File"
+  },
+  "soundVolume": {
+    "type": "slider",
+    "label": "Sound Volume",
+    "value": 25,
+    "min": 0,
+    "max": 100,
+    "step": 1
+  }
+}
